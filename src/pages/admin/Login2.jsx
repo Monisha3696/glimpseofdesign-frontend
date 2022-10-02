@@ -8,7 +8,7 @@ import Swal from "sweetalert2";
 import { useNavigate } from "react-router-dom";
 import { getDownloadURL, ref, uploadBytes } from "firebase/storage";
 import { v4 } from "uuid";
-import logo from "../../assets/footer-logo.png";
+import logo from "../../assets/footer-logo.PNG";
 
 import { storage } from "../../apis/firebase/index";
 
