@@ -2,9 +2,9 @@ import React from "react";
 import { FaPhoneAlt } from "@react-icons/all-files/fa/FaPhoneAlt";
 import { HiLocationMarker } from "@react-icons/all-files/hi/HiLocationMarker";
 import { MdEmail } from "@react-icons/all-files/md/MdEmail";
-import cover_img_1 from "../../assets/Categories/05.jpg";
-import cover_img_2 from "../../assets/Categories/06.jpg";
-import cover_img_3 from "../../assets/Categories/07.jpg";
+// import cover_img_1 from "../../assets/Categories/05.jpg";
+// import cover_img_2 from "../../assets/Categories/06.jpg";
+// import cover_img_3 from "../../assets/Categories/07.jpg";
 
 const contact = () => {
   return (
@@ -15,17 +15,17 @@ const contact = () => {
         <div className="container mx-0 py-0">
           <div className="relative mx-0 w-screen flex flex-nowrap flex-col items-center justify-center">
             <img
-              src={cover_img_1}
+              // src={cover_img_1}
               alt="A work table with house plants"
               className="w-full hidden lg:block h-auto"
             />
             <img
-              src={cover_img_2}
+              // src={cover_img_2}
               alt="A work table with house plants"
               className="w-full hidden sm:block lg:hidden h-auto"
             />
             <img
-              src={cover_img_3}
+              // src={cover_img_3}
               alt="A work table with house plants"
               className="w-full block sm:hidden lg:hidden h-auto"
             />
@@ -76,21 +76,21 @@ const contact = () => {
               <FaPhoneAlt className="text-2xl text-main" />
             </div>
             <p className="font-semibold text-xl text-primary">Phone:</p>
-            <p>+94 71 7662323</p>
+            <p>4059904493</p>
           </div>
           <div className="h-max p-8 flex flex-col justify-center items-center">
             <div className="bg-primary bg-opacity-80 h-20 w-20 mb-6 rounded-full flex justify-center items-center">
               <HiLocationMarker className="text-2xl text-main" />
             </div>
             <p className="font-semibold text-xl text-primary">Address:</p>
-            <p>112/34/4, VIP Crescent, Bakmeegaha Road, Athurugiriya.</p>
+            <p>Oklahoma State University,Stillwater,74074.</p>
           </div>
           <div className="h-max p-8 flex flex-col justify-center items-center">
             <div className="bg-primary bg-opacity-80 h-20 w-20 mb-6 rounded-full flex justify-center items-center">
               <MdEmail className="text-2xl text-main" />
             </div>
             <p className="font-semibold text-xl text-primary">Email:</p>
-            <p>glimpseofdesign@gmail.com</p>
+            <p>oklahomastate@okstate.edu</p>
           </div>
         </div>
       </div>
