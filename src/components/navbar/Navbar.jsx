@@ -71,11 +71,11 @@ export default function Navbar() {
                         <NavLink to="/" className="nav-bar">
                             Home
                         </NavLink>
-                        <NavLink to="projects" className="nav-bar">
+                        {/* <NavLink to="projects" className="nav-bar">
                             Projects
-                        </NavLink>
+                        </NavLink> */}
                         <NavLink to="services" className="nav-bar">
-                            Services
+                            Products
                         </NavLink>
                         <NavLink
                             to="contact"
@@ -107,7 +107,7 @@ export default function Navbar() {
                                     <img
                                         className="h-16 w-auto pr-16"
                                         src={Logo}
-                                        alt="Glimpse of Design"
+                                        alt="Castoffs Creatives"
                                     />
                                 </div>
                                 <div className="-mr-2 text-third">
