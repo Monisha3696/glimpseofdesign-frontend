@@ -1,6 +1,6 @@
 import React, {useEffect} from "react";
 import {Link} from "react-router-dom";
-import Logo from "../../assets/footer-logo.png";
+import Logo from "../../assets/footer-logo.PNG";
 import {FaFacebookF} from "@react-icons/all-files/fa/FaFacebookF";
 import {FaInstagram} from "@react-icons/all-files/fa/FaInstagram";
 import {FaWhatsapp} from "@react-icons/all-files/fa/FaWhatsapp";
