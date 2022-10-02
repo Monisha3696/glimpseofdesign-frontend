@@ -10,7 +10,7 @@ import "react-multi-carousel/lib/styles.css";
 // } from "pure-react-carousel";
 // import "pure-react-carousel/dist/react-carousel.es.css";
 import { Link } from "react-router-dom";
-import Logo from "../../assets/footer-logo.png";
+import Logo from "../../assets/footer-logo.PNG";
 import { BiGridAlt } from "@react-icons/all-files/bi/BiGridAlt";
 import { BiAddToQueue } from "@react-icons/all-files/bi/BiAddToQueue";
 import { BiLogOut } from "@react-icons/all-files/bi/BiLogOut";
