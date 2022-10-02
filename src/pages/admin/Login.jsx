@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { BsEye } from "@react-icons/all-files/bs/BsEye";
-import logo from "../../assets/footer-logo.png";
+import logo from "../../assets/footer-logo.PNG";
 import { useEffect } from "react";
 import glimpseofdesignAPI from "../../apis/glimpseofdesignAPI";
 
