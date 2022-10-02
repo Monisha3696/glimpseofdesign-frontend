@@ -1,8 +1,8 @@
 import React from "react";
 import cover_img from "../../assets/Categories/04.jpg";
-import image1 from "../../assets/Categories/01.jpg";
-import image2 from "../../assets/Categories/02.jpg";
-import image3 from "../../assets/Categories/03.jpg";
+// import image1 from "../../assets/Categories/01.jpg";
+// import image2 from "../../assets/Categories/02.jpg";
+// import image3 from "../../assets/Categories/03.jpg";
 import image4 from "../../assets/Categories/04.jpg";
 
 export default function Index() {
@@ -29,18 +29,17 @@ export default function Index() {
 
             <div className="absolute z-10 top-8 sm:top-20 lg:top-32 left-0 mx-0 sm:mx-0 mt-20 sm:mt-12 sm:py-4 py-4 px-4 md:py-8 lg:py-8 xl:py-8 sm:pl-14 flex flex-col sm:justify-start items-start bg-title_bg  opacity-75 text-secondary">
               <h1 className="text-base sm:text-base lg:text-3xl font-semibold text-gray-800 sm:w-9/12 uppercase underline underline-offset-4">
-                Our services
+                Our Products
               </h1>
               <p className="text-base leading-normal text-gray-800 mt-4 sm:mt-5 sm:w-9/12">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
+                charcoal made up of food waste which is eco friendly.
               </p>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="py-9 md:py-12 xl:py-16">
+      {/* <div className="py-9 md:py-12 xl:py-16">
         <section>
           <h1 className="leading-5 md:leading-6 xl:leading-9 text-secondary-800 text-xl md:text-2xl xl:text-4xl font-semibold text-center uppercase text-secondary">
             What we do
@@ -183,7 +182,7 @@ export default function Index() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }
