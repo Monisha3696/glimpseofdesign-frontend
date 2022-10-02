@@ -10,7 +10,7 @@ import {
   XIcon,
 } from "@heroicons/react/outline";
 import {Link, NavLink} from "react-router-dom";
-import Logo from "../../assets/nav-logo.png";
+import Logo from "../../assets/nav-logo.PNG";
 
 const solutions = [
     {
